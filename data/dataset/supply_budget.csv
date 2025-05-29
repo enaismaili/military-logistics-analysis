@@ -1,0 +1,49 @@
+base,supply_category,budget_allocated,budget_spent,budget_variance
+North Judithbury,Food,506221,378916.02,-127304.98
+North Judithbury,Medical Supplies,129198,112381.51,-16816.49
+North Judithbury,Fuel,295054,329669.67,34615.67
+North Judithbury,Vehicles,157904,136340.94,-21563.06
+North Judithbury,Ammunition,173844,185209.75,11365.75
+North Judithbury,Communication Equipment,236527,171701.31,-64825.69
+East Jill,Food,499021,475444.42,-23576.58
+East Jill,Medical Supplies,296131,330668.53,34537.53
+East Jill,Fuel,432252,423461.02,-8790.98
+East Jill,Vehicles,199322,193280.69,-6041.31
+East Jill,Ammunition,523787,379207.01,-144579.99
+East Jill,Communication Equipment,220797,239181.51,18384.51
+New Roberttown,Food,411183,333259.42,-77923.58
+New Roberttown,Medical Supplies,259669,248792.66,-10876.34
+New Roberttown,Fuel,200578,159297.48,-41280.52
+New Roberttown,Vehicles,481426,373384.77,-108041.23
+New Roberttown,Ammunition,412578,313726.72,-98851.28
+New Roberttown,Communication Equipment,382001,455075.11,73074.11
+East Jessetown,Food,468448,510190.72,41742.72
+East Jessetown,Medical Supplies,183387,215968.12,32581.12
+East Jessetown,Fuel,524228,443998.96,-80229.04
+East Jessetown,Vehicles,143382,171412.0,28030.0
+East Jessetown,Ammunition,456178,308436.95,-147741.05
+East Jessetown,Communication Equipment,181868,136365.78,-45502.22
+Lake Debra,Food,485275,384948.29,-100326.71
+Lake Debra,Medical Supplies,242089,255860.03,13771.03
+Lake Debra,Fuel,466841,390101.89,-76739.11
+Lake Debra,Vehicles,186838,176833.82,-10004.18
+Lake Debra,Ammunition,253185,247282.67,-5902.33
+Lake Debra,Communication Equipment,308998,269197.52,-39800.48
+Robinsonshire,Food,444503,478622.69,34119.69
+Robinsonshire,Medical Supplies,515416,338039.12,-177376.88
+Robinsonshire,Fuel,382629,401715.08,19086.08
+Robinsonshire,Vehicles,476524,553626.38,77102.38
+Robinsonshire,Ammunition,305799,266906.68,-38892.32
+Robinsonshire,Communication Equipment,368175,293204.84,-74970.16
+Lisatown,Food,113596,127380.27,13784.27
+Lisatown,Medical Supplies,496458,325619.35,-170838.65
+Lisatown,Fuel,352659,345924.74,-6734.26
+Lisatown,Vehicles,477880,389440.49,-88439.51
+Lisatown,Ammunition,145503,156765.92,11262.92
+Lisatown,Communication Equipment,320817,234420.33,-86396.67
+Lake Roberto,Food,337556,369592.96,32036.96
+Lake Roberto,Medical Supplies,371673,282888.54,-88784.46
+Lake Roberto,Fuel,260984,209479.61,-51504.39
+Lake Roberto,Vehicles,415303,281723.51,-133579.49
+Lake Roberto,Ammunition,366756,393522.66,26766.66
+Lake Roberto,Communication Equipment,470153,497117.41,26964.41

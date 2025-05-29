@@ -1,0 +1,49 @@
+base,supply_category,inventory_units,avg_daily_consumption,days_remaining,inventory_status,last_updated
+North Judithbury,Food,2138,86.57,24.7,Critical,2025-05-10
+North Judithbury,Medical Supplies,1138,15.98,71.3,Stable,2025-05-11
+North Judithbury,Fuel,1399,86.41,16.2,Critical,2025-05-18
+North Judithbury,Vehicles,3594,48.13,74.7,Stable,2025-05-13
+North Judithbury,Ammunition,383,23.23,16.5,Critical,2025-05-17
+North Judithbury,Communication Equipment,2925,33.82,86.5,Stable,2025-05-15
+East Jill,Food,1404,81.17,17.3,Critical,2025-05-11
+East Jill,Medical Supplies,1331,13.88,95.9,Stable,2025-05-12
+East Jill,Fuel,1825,95.55,19.1,Critical,2025-05-14
+East Jill,Vehicles,1502,14.26,105.4,Stable,2025-05-14
+East Jill,Ammunition,504,41.39,12.2,Critical,2025-05-15
+East Jill,Communication Equipment,1077,9.58,112.4,Stable,2025-05-11
+New Roberttown,Food,1006,87.48,11.5,Critical,2025-05-13
+New Roberttown,Medical Supplies,1957,25.59,76.5,Stable,2025-05-12
+New Roberttown,Fuel,1786,114.51,15.6,Critical,2025-05-14
+New Roberttown,Vehicles,3248,33.76,96.2,Stable,2025-05-13
+New Roberttown,Ammunition,991,32.51,30.5,Stable,2025-05-15
+New Roberttown,Communication Equipment,2290,20.66,110.9,Stable,2025-05-17
+East Jessetown,Food,2229,104.69,21.3,Critical,2025-05-16
+East Jessetown,Medical Supplies,2888,36.77,78.5,Stable,2025-05-10
+East Jessetown,Fuel,700,104.58,6.7,Critical,2025-05-10
+East Jessetown,Vehicles,749,11.03,68.0,Stable,2025-05-16
+East Jessetown,Ammunition,307,18.74,16.4,Critical,2025-05-12
+East Jessetown,Communication Equipment,3299,36.2,91.1,Stable,2025-05-17
+Lake Debra,Food,754,96.73,7.8,Critical,2025-05-16
+Lake Debra,Medical Supplies,1602,22.27,72.0,Stable,2025-05-19
+Lake Debra,Fuel,1992,105.42,18.9,Critical,2025-05-18
+Lake Debra,Vehicles,4084,34.04,120.0,Stable,2025-05-13
+Lake Debra,Ammunition,812,29.97,27.1,Critical,2025-05-15
+Lake Debra,Communication Equipment,900,11.31,79.6,Stable,2025-05-11
+Robinsonshire,Food,598,98.04,6.1,Critical,2025-05-13
+Robinsonshire,Medical Supplies,1302,21.16,61.6,Stable,2025-05-19
+Robinsonshire,Fuel,1820,85.46,21.3,Critical,2025-05-16
+Robinsonshire,Vehicles,4393,48.37,90.8,Stable,2025-05-13
+Robinsonshire,Ammunition,927,27.27,34.0,Stable,2025-05-15
+Robinsonshire,Communication Equipment,2620,23.7,110.6,Stable,2025-05-19
+Lisatown,Food,666,99.55,6.7,Critical,2025-05-13
+Lisatown,Medical Supplies,676,6.39,105.9,Stable,2025-05-13
+Lisatown,Fuel,962,91.68,10.5,Critical,2025-05-17
+Lisatown,Vehicles,2070,29.19,70.9,Stable,2025-05-18
+Lisatown,Ammunition,920,25.58,36.0,Stable,2025-05-16
+Lisatown,Communication Equipment,3687,39.47,93.4,Stable,2025-05-18
+Lake Roberto,Food,617,84.53,7.3,Critical,2025-05-17
+Lake Roberto,Medical Supplies,4369,39.88,109.6,Stable,2025-05-16
+Lake Roberto,Fuel,2035,94.67,21.5,Critical,2025-05-15
+Lake Roberto,Vehicles,710,6.87,103.4,Stable,2025-05-16
+Lake Roberto,Ammunition,1319,29.59,44.6,Stable,2025-05-14
+Lake Roberto,Communication Equipment,1056,9.61,110.0,Stable,2025-05-13

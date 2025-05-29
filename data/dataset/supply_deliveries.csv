@@ -1,0 +1,301 @@
+order_id,vendor,base,supply_category,expected_delivery_date,actual_delivery_date,delay_days,delivery_method,route_risk_level
+ORD-1000,Moore-Bernard,East Jill,Communication Equipment,2025-05-05,2025-05-04,-1,Convoy,Low
+ORD-1001,Galloway-Wyatt,East Jill,Food,2025-04-09,2025-04-08,-1,Helicopter,High
+ORD-1002,Blair PLC,East Jessetown,Ammunition,2025-03-11,2025-03-12,1,Chartered Freight,High
+ORD-1003,Blair PLC,Lisatown,Vehicles,2025-06-05,2025-06-05,0,Truck,High
+ORD-1004,"Mcclure, Ward and Lee",New Roberttown,Fuel,2025-05-26,2025-05-28,2,Helicopter,Low
+ORD-1005,"Mcclure, Ward and Lee",East Jill,Food,2025-03-24,2025-03-22,-2,Helicopter,Low
+ORD-1006,Williams and Sons,North Judithbury,Ammunition,2025-05-13,2025-05-12,-1,Convoy,High
+ORD-1007,James Group,Lake Debra,Fuel,2025-05-10,2025-05-12,2,Helicopter,High
+ORD-1008,Dudley Group,East Jessetown,Food,2025-04-10,2025-04-09,-1,Convoy,Low
+ORD-1009,Williams and Sons,Lake Debra,Communication Equipment,2025-04-08,2025-04-10,2,Truck,High
+ORD-1010,Dudley Group,East Jessetown,Communication Equipment,2025-03-14,2025-03-15,1,Helicopter,Low
+ORD-1011,Galloway-Wyatt,New Roberttown,Communication Equipment,2025-05-17,2025-05-16,-1,Convoy,High
+ORD-1012,Arnold Ltd,East Jessetown,Food,2025-05-22,2025-05-21,-1,Truck,High
+ORD-1013,Garcia-James,Lake Debra,Medical Supplies,2025-03-08,2025-03-08,0,Truck,Low
+ORD-1014,Williams and Sons,East Jessetown,Vehicles,2025-03-27,2025-03-25,-2,Convoy,High
+ORD-1015,Abbott-Munoz,Lake Debra,Medical Supplies,2025-04-05,2025-04-04,-1,Chartered Freight,High
+ORD-1016,James Group,Lisatown,Vehicles,2025-04-28,2025-04-28,0,Chartered Freight,High
+ORD-1017,Garcia-James,Lake Roberto,Food,2025-04-04,2025-04-03,-1,Convoy,High
+ORD-1018,James Group,Lisatown,Food,2025-05-01,2025-05-03,2,Chartered Freight,Low
+ORD-1019,Galloway-Wyatt,Lake Debra,Food,2025-03-12,2025-03-10,-2,Chartered Freight,Low
+ORD-1020,Arnold Ltd,Lake Debra,Food,2025-05-22,2025-05-22,0,Truck,Low
+ORD-1021,Galloway-Wyatt,Lake Debra,Medical Supplies,2025-05-05,2025-05-10,5,Chartered Freight,Medium
+ORD-1022,Abbott-Munoz,East Jessetown,Fuel,2025-03-10,2025-03-12,2,Helicopter,Low
+ORD-1023,Williams and Sons,Robinsonshire,Food,2025-04-03,2025-04-01,-2,Convoy,High
+ORD-1024,Blair PLC,North Judithbury,Ammunition,2025-04-05,2025-04-07,2,Chartered Freight,Low
+ORD-1025,Galloway-Wyatt,East Jill,Medical Supplies,2025-03-27,2025-03-29,2,Truck,Low
+ORD-1026,Galloway-Wyatt,Lake Debra,Ammunition,2025-04-05,2025-04-10,5,Truck,Low
+ORD-1027,Dudley Group,East Jessetown,Vehicles,2025-04-16,2025-04-17,1,Helicopter,Low
+ORD-1028,Garcia-James,Lake Roberto,Medical Supplies,2025-03-17,2025-03-19,2,Chartered Freight,High
+ORD-1029,James Group,East Jessetown,Medical Supplies,2025-05-21,2025-05-26,5,Helicopter,High
+ORD-1030,Garcia-James,East Jessetown,Food,2025-03-14,2025-03-15,1,Convoy,High
+ORD-1031,Williams and Sons,Lake Debra,Medical Supplies,2025-04-09,2025-04-07,-2,Convoy,Low
+ORD-1032,Blair PLC,Lake Roberto,Vehicles,2025-03-21,2025-03-22,1,Chartered Freight,High
+ORD-1033,Arnold Ltd,Lisatown,Vehicles,2025-04-26,2025-05-01,5,Chartered Freight,High
+ORD-1034,Moore-Bernard,East Jill,Vehicles,2025-03-29,2025-04-03,5,Truck,Low
+ORD-1035,Blair PLC,East Jessetown,Ammunition,2025-03-18,2025-03-23,5,Chartered Freight,High
+ORD-1036,Blair PLC,Lake Roberto,Food,2025-03-23,2025-03-24,1,Convoy,Low
+ORD-1037,Galloway-Wyatt,North Judithbury,Food,2025-04-12,2025-04-14,2,Chartered Freight,High
+ORD-1038,Williams and Sons,Lisatown,Vehicles,2025-05-17,2025-05-15,-2,Chartered Freight,Low
+ORD-1039,Moore-Bernard,Lisatown,Vehicles,2025-04-08,2025-04-08,0,Truck,Medium
+ORD-1040,Galloway-Wyatt,Lisatown,Communication Equipment,2025-04-04,2025-04-06,2,Convoy,High
+ORD-1041,Moore-Bernard,East Jessetown,Ammunition,2025-04-07,2025-04-09,2,Truck,Medium
+ORD-1042,Moore-Bernard,North Judithbury,Ammunition,2025-05-02,2025-05-01,-1,Helicopter,Low
+ORD-1043,Galloway-Wyatt,North Judithbury,Food,2025-04-16,2025-04-18,2,Truck,Low
+ORD-1044,"Mcclure, Ward and Lee",East Jessetown,Food,2025-04-13,2025-04-18,5,Convoy,High
+ORD-1045,James Group,North Judithbury,Food,2025-05-29,2025-05-28,-1,Truck,Low
+ORD-1046,Dudley Group,Robinsonshire,Medical Supplies,2025-05-05,2025-05-05,0,Chartered Freight,Low
+ORD-1047,Abbott-Munoz,Lisatown,Communication Equipment,2025-03-23,2025-03-25,2,Convoy,High
+ORD-1048,Moore-Bernard,East Jill,Vehicles,2025-05-05,2025-05-06,1,Chartered Freight,High
+ORD-1049,Galloway-Wyatt,East Jessetown,Fuel,2025-04-24,2025-04-24,0,Truck,Low
+ORD-1050,Dudley Group,Robinsonshire,Medical Supplies,2025-03-26,2025-03-28,2,Chartered Freight,High
+ORD-1051,Galloway-Wyatt,North Judithbury,Fuel,2025-04-10,2025-04-11,1,Helicopter,Low
+ORD-1052,Garcia-James,East Jill,Communication Equipment,2025-05-17,2025-05-16,-1,Convoy,Low
+ORD-1053,Arnold Ltd,East Jessetown,Medical Supplies,2025-03-27,2025-03-26,-1,Convoy,High
+ORD-1054,Dudley Group,Lake Roberto,Food,2025-05-29,2025-05-28,-1,Chartered Freight,High
+ORD-1055,Arnold Ltd,North Judithbury,Medical Supplies,2025-03-20,2025-03-22,2,Chartered Freight,High
+ORD-1056,Galloway-Wyatt,Lake Roberto,Communication Equipment,2025-03-28,2025-03-30,2,Convoy,High
+ORD-1057,Galloway-Wyatt,New Roberttown,Food,2025-04-15,2025-04-20,5,Convoy,High
+ORD-1058,Abbott-Munoz,Lisatown,Food,2025-03-21,2025-03-19,-2,Truck,High
+ORD-1059,Blair PLC,East Jessetown,Communication Equipment,2025-04-09,2025-04-11,2,Helicopter,High
+ORD-1060,Blair PLC,New Roberttown,Medical Supplies,2025-04-28,2025-04-27,-1,Chartered Freight,Low
+ORD-1061,Arnold Ltd,New Roberttown,Vehicles,2025-03-30,2025-03-28,-2,Chartered Freight,Low
+ORD-1062,Dudley Group,East Jessetown,Medical Supplies,2025-06-01,2025-05-30,-2,Helicopter,Low
+ORD-1063,Blair PLC,Lake Roberto,Medical Supplies,2025-03-08,2025-03-06,-2,Truck,Low
+ORD-1064,Blair PLC,East Jessetown,Food,2025-05-07,2025-05-12,5,Convoy,Medium
+ORD-1065,Dudley Group,East Jill,Fuel,2025-03-23,2025-03-28,5,Helicopter,Medium
+ORD-1066,Moore-Bernard,Robinsonshire,Food,2025-04-14,2025-04-13,-1,Chartered Freight,High
+ORD-1067,Moore-Bernard,Lake Debra,Food,2025-05-22,2025-05-20,-2,Truck,High
+ORD-1068,"Mcclure, Ward and Lee",Robinsonshire,Ammunition,2025-03-22,2025-03-21,-1,Helicopter,High
+ORD-1069,Moore-Bernard,Lake Debra,Communication Equipment,2025-05-05,2025-05-03,-2,Chartered Freight,High
+ORD-1070,Arnold Ltd,East Jessetown,Vehicles,2025-05-18,2025-05-20,2,Helicopter,Medium
+ORD-1071,Garcia-James,Robinsonshire,Communication Equipment,2025-04-01,2025-03-31,-1,Convoy,High
+ORD-1072,Arnold Ltd,Lisatown,Vehicles,2025-05-19,2025-05-17,-2,Convoy,High
+ORD-1073,"Mcclure, Ward and Lee",Lisatown,Communication Equipment,2025-03-28,2025-03-29,1,Helicopter,Low
+ORD-1074,"Mcclure, Ward and Lee",Lake Debra,Ammunition,2025-05-04,2025-05-06,2,Helicopter,High
+ORD-1075,James Group,Lisatown,Ammunition,2025-05-16,2025-05-18,2,Convoy,High
+ORD-1076,Galloway-Wyatt,East Jessetown,Vehicles,2025-05-26,2025-05-24,-2,Chartered Freight,Low
+ORD-1077,Dudley Group,East Jill,Ammunition,2025-04-28,2025-04-30,2,Convoy,Low
+ORD-1078,Dudley Group,East Jessetown,Medical Supplies,2025-03-28,2025-03-27,-1,Chartered Freight,High
+ORD-1079,Williams and Sons,East Jessetown,Ammunition,2025-02-25,2025-03-02,5,Convoy,High
+ORD-1080,"Mcclure, Ward and Lee",East Jessetown,Vehicles,2025-05-07,2025-05-08,1,Convoy,Low
+ORD-1081,Garcia-James,North Judithbury,Vehicles,2025-05-10,2025-05-08,-2,Truck,Low
+ORD-1082,Moore-Bernard,Lake Roberto,Ammunition,2025-05-08,2025-05-13,5,Convoy,High
+ORD-1083,Williams and Sons,New Roberttown,Communication Equipment,2025-04-11,2025-04-12,1,Helicopter,High
+ORD-1084,James Group,Lake Roberto,Communication Equipment,2025-05-20,2025-05-22,2,Convoy,Low
+ORD-1085,Williams and Sons,New Roberttown,Vehicles,2025-04-03,2025-04-02,-1,Helicopter,Low
+ORD-1086,Blair PLC,Lake Roberto,Fuel,2025-04-07,2025-04-05,-2,Helicopter,High
+ORD-1087,Arnold Ltd,Lake Debra,Fuel,2025-04-07,2025-04-07,0,Truck,Medium
+ORD-1088,"Mcclure, Ward and Lee",East Jessetown,Communication Equipment,2025-05-02,2025-04-30,-2,Chartered Freight,Low
+ORD-1089,Arnold Ltd,Lisatown,Ammunition,2025-04-28,2025-04-29,1,Truck,High
+ORD-1090,James Group,Lisatown,Communication Equipment,2025-05-01,2025-05-02,1,Chartered Freight,High
+ORD-1091,Moore-Bernard,Lake Roberto,Fuel,2025-03-27,2025-04-01,5,Chartered Freight,High
+ORD-1092,Williams and Sons,East Jessetown,Medical Supplies,2025-04-15,2025-04-17,2,Convoy,Low
+ORD-1093,"Mcclure, Ward and Lee",Robinsonshire,Communication Equipment,2025-04-16,2025-04-16,0,Truck,High
+ORD-1094,"Mcclure, Ward and Lee",North Judithbury,Ammunition,2025-05-14,2025-05-15,1,Truck,High
+ORD-1095,Abbott-Munoz,Lisatown,Vehicles,2025-03-30,2025-03-31,1,Chartered Freight,High
+ORD-1096,Williams and Sons,East Jessetown,Fuel,2025-03-25,2025-03-26,1,Truck,High
+ORD-1097,Dudley Group,Lisatown,Food,2025-04-26,2025-05-01,5,Chartered Freight,Low
+ORD-1098,Blair PLC,Robinsonshire,Communication Equipment,2025-04-15,2025-04-13,-2,Convoy,High
+ORD-1099,Blair PLC,North Judithbury,Medical Supplies,2025-04-09,2025-04-09,0,Convoy,High
+ORD-1100,Williams and Sons,New Roberttown,Communication Equipment,2025-03-23,2025-03-23,0,Convoy,Low
+ORD-1101,Arnold Ltd,Lake Debra,Medical Supplies,2025-04-20,2025-04-18,-2,Chartered Freight,High
+ORD-1102,Abbott-Munoz,East Jill,Fuel,2025-04-09,2025-04-10,1,Chartered Freight,Low
+ORD-1103,"Mcclure, Ward and Lee",Lisatown,Communication Equipment,2025-03-25,2025-03-25,0,Convoy,Low
+ORD-1104,Garcia-James,East Jessetown,Communication Equipment,2025-03-21,2025-03-26,5,Convoy,High
+ORD-1105,James Group,East Jill,Food,2025-03-31,2025-03-31,0,Convoy,High
+ORD-1106,Galloway-Wyatt,East Jill,Communication Equipment,2025-05-01,2025-04-30,-1,Helicopter,Low
+ORD-1107,"Mcclure, Ward and Lee",East Jill,Fuel,2025-03-11,2025-03-09,-2,Chartered Freight,High
+ORD-1108,"Mcclure, Ward and Lee",New Roberttown,Medical Supplies,2025-06-02,2025-06-01,-1,Convoy,Low
+ORD-1109,Williams and Sons,Lake Roberto,Vehicles,2025-04-21,2025-04-19,-2,Truck,Low
+ORD-1110,Garcia-James,East Jessetown,Fuel,2025-03-08,2025-03-09,1,Chartered Freight,Low
+ORD-1111,Arnold Ltd,Lisatown,Food,2025-03-27,2025-03-28,1,Truck,Low
+ORD-1112,Arnold Ltd,East Jessetown,Fuel,2025-03-13,2025-03-14,1,Chartered Freight,High
+ORD-1113,Galloway-Wyatt,Lake Debra,Food,2025-05-08,2025-05-10,2,Convoy,High
+ORD-1114,Williams and Sons,Lisatown,Ammunition,2025-04-02,2025-04-01,-1,Truck,Low
+ORD-1115,Williams and Sons,Lake Roberto,Food,2025-04-15,2025-04-17,2,Helicopter,Low
+ORD-1116,Dudley Group,East Jessetown,Communication Equipment,2025-03-24,2025-03-24,0,Chartered Freight,Low
+ORD-1117,"Mcclure, Ward and Lee",Robinsonshire,Communication Equipment,2025-04-08,2025-04-13,5,Convoy,High
+ORD-1118,Dudley Group,Lake Debra,Fuel,2025-05-09,2025-05-07,-2,Convoy,Low
+ORD-1119,Galloway-Wyatt,East Jill,Communication Equipment,2025-03-18,2025-03-19,1,Helicopter,High
+ORD-1120,James Group,Lake Debra,Ammunition,2025-03-28,2025-04-02,5,Helicopter,Medium
+ORD-1121,Blair PLC,Lake Debra,Fuel,2025-04-19,2025-04-18,-1,Convoy,Medium
+ORD-1122,Dudley Group,New Roberttown,Food,2025-05-29,2025-05-28,-1,Chartered Freight,High
+ORD-1123,Garcia-James,Lake Roberto,Food,2025-04-23,2025-04-21,-2,Helicopter,High
+ORD-1124,Abbott-Munoz,Robinsonshire,Food,2025-03-16,2025-03-14,-2,Truck,High
+ORD-1125,"Mcclure, Ward and Lee",East Jill,Vehicles,2025-04-29,2025-04-28,-1,Convoy,Low
+ORD-1126,Abbott-Munoz,New Roberttown,Ammunition,2025-05-14,2025-05-13,-1,Truck,Low
+ORD-1127,James Group,Lisatown,Ammunition,2025-03-28,2025-03-27,-1,Helicopter,High
+ORD-1128,Williams and Sons,Lake Roberto,Fuel,2025-05-12,2025-05-13,1,Helicopter,Low
+ORD-1129,James Group,North Judithbury,Communication Equipment,2025-05-10,2025-05-09,-1,Chartered Freight,Low
+ORD-1130,Dudley Group,East Jessetown,Communication Equipment,2025-06-01,2025-06-02,1,Chartered Freight,Low
+ORD-1131,Abbott-Munoz,East Jill,Food,2025-04-20,2025-04-19,-1,Chartered Freight,High
+ORD-1132,Moore-Bernard,Lake Debra,Medical Supplies,2025-05-18,2025-05-23,5,Helicopter,High
+ORD-1133,Blair PLC,East Jill,Fuel,2025-03-29,2025-04-03,5,Truck,High
+ORD-1134,"Mcclure, Ward and Lee",East Jessetown,Food,2025-03-19,2025-03-17,-2,Convoy,High
+ORD-1135,Garcia-James,New Roberttown,Food,2025-05-06,2025-05-11,5,Convoy,High
+ORD-1136,Williams and Sons,Lake Debra,Food,2025-04-10,2025-04-08,-2,Helicopter,High
+ORD-1137,Galloway-Wyatt,Lake Debra,Ammunition,2025-05-04,2025-05-04,0,Chartered Freight,Low
+ORD-1138,Arnold Ltd,Lisatown,Ammunition,2025-04-05,2025-04-05,0,Truck,High
+ORD-1139,Dudley Group,North Judithbury,Ammunition,2025-05-11,2025-05-11,0,Chartered Freight,Low
+ORD-1140,Dudley Group,Lake Roberto,Medical Supplies,2025-04-22,2025-04-27,5,Helicopter,High
+ORD-1141,Arnold Ltd,Lake Roberto,Vehicles,2025-04-23,2025-04-21,-2,Chartered Freight,Low
+ORD-1142,"Mcclure, Ward and Lee",Robinsonshire,Communication Equipment,2025-03-16,2025-03-21,5,Chartered Freight,High
+ORD-1143,Williams and Sons,North Judithbury,Food,2025-04-03,2025-04-08,5,Chartered Freight,Low
+ORD-1144,Galloway-Wyatt,Lisatown,Food,2025-06-06,2025-06-04,-2,Helicopter,High
+ORD-1145,Blair PLC,North Judithbury,Ammunition,2025-03-24,2025-03-26,2,Truck,Low
+ORD-1146,Moore-Bernard,Lake Roberto,Medical Supplies,2025-04-27,2025-04-26,-1,Chartered Freight,High
+ORD-1147,Garcia-James,Lake Roberto,Food,2025-05-04,2025-05-02,-2,Helicopter,High
+ORD-1148,Dudley Group,New Roberttown,Ammunition,2025-05-26,2025-05-26,0,Convoy,Medium
+ORD-1149,Williams and Sons,East Jill,Food,2025-03-17,2025-03-15,-2,Chartered Freight,High
+ORD-1150,Galloway-Wyatt,Lake Debra,Communication Equipment,2025-05-22,2025-05-23,1,Helicopter,Medium
+ORD-1151,Williams and Sons,East Jessetown,Ammunition,2025-03-15,2025-03-16,1,Convoy,Low
+ORD-1152,Garcia-James,New Roberttown,Fuel,2025-05-30,2025-05-28,-2,Truck,Low
+ORD-1153,Moore-Bernard,Lake Debra,Fuel,2025-05-08,2025-05-06,-2,Chartered Freight,High
+ORD-1154,Abbott-Munoz,Lake Roberto,Vehicles,2025-04-18,2025-04-18,0,Helicopter,Low
+ORD-1155,Williams and Sons,Lisatown,Fuel,2025-05-01,2025-05-01,0,Truck,Medium
+ORD-1156,Blair PLC,Lisatown,Vehicles,2025-03-19,2025-03-17,-2,Truck,Low
+ORD-1157,"Mcclure, Ward and Lee",Lisatown,Communication Equipment,2025-03-31,2025-03-31,0,Chartered Freight,Medium
+ORD-1158,Abbott-Munoz,North Judithbury,Ammunition,2025-04-27,2025-04-26,-1,Helicopter,High
+ORD-1159,Galloway-Wyatt,East Jill,Vehicles,2025-05-05,2025-05-05,0,Helicopter,High
+ORD-1160,Garcia-James,New Roberttown,Vehicles,2025-05-18,2025-05-20,2,Helicopter,High
+ORD-1161,Garcia-James,Lisatown,Fuel,2025-04-18,2025-04-16,-2,Convoy,High
+ORD-1162,Williams and Sons,Robinsonshire,Ammunition,2025-05-13,2025-05-11,-2,Convoy,Low
+ORD-1163,Blair PLC,Lake Debra,Communication Equipment,2025-05-14,2025-05-15,1,Helicopter,Medium
+ORD-1164,Williams and Sons,East Jill,Medical Supplies,2025-05-14,2025-05-16,2,Truck,High
+ORD-1165,Moore-Bernard,Robinsonshire,Fuel,2025-04-05,2025-04-04,-1,Helicopter,High
+ORD-1166,James Group,Lisatown,Communication Equipment,2025-03-28,2025-04-02,5,Chartered Freight,Low
+ORD-1167,James Group,Lisatown,Communication Equipment,2025-05-03,2025-05-05,2,Chartered Freight,High
+ORD-1168,Williams and Sons,East Jessetown,Communication Equipment,2025-04-22,2025-04-24,2,Chartered Freight,Medium
+ORD-1169,Dudley Group,Lake Roberto,Communication Equipment,2025-04-02,2025-04-04,2,Chartered Freight,Low
+ORD-1170,"Mcclure, Ward and Lee",Lake Debra,Communication Equipment,2025-04-22,2025-04-21,-1,Chartered Freight,Low
+ORD-1171,Williams and Sons,Lisatown,Food,2025-03-29,2025-03-30,1,Convoy,High
+ORD-1172,Dudley Group,Lake Debra,Food,2025-04-09,2025-04-10,1,Chartered Freight,High
+ORD-1173,James Group,North Judithbury,Communication Equipment,2025-04-30,2025-04-29,-1,Chartered Freight,High
+ORD-1174,James Group,East Jessetown,Fuel,2025-04-14,2025-04-13,-1,Helicopter,Low
+ORD-1175,Garcia-James,New Roberttown,Communication Equipment,2025-05-22,2025-05-24,2,Helicopter,Low
+ORD-1176,Abbott-Munoz,Robinsonshire,Food,2025-03-12,2025-03-12,0,Chartered Freight,High
+ORD-1177,Blair PLC,New Roberttown,Medical Supplies,2025-05-08,2025-05-08,0,Helicopter,Low
+ORD-1178,Abbott-Munoz,Lake Debra,Fuel,2025-04-16,2025-04-21,5,Truck,High
+ORD-1179,Arnold Ltd,Lake Debra,Food,2025-05-08,2025-05-09,1,Helicopter,Medium
+ORD-1180,"Mcclure, Ward and Lee",East Jessetown,Ammunition,2025-05-03,2025-05-05,2,Convoy,High
+ORD-1181,Galloway-Wyatt,Lake Debra,Food,2025-04-01,2025-04-01,0,Helicopter,High
+ORD-1182,James Group,Lake Debra,Vehicles,2025-05-13,2025-05-11,-2,Truck,High
+ORD-1183,Williams and Sons,East Jessetown,Food,2025-05-16,2025-05-21,5,Helicopter,High
+ORD-1184,Garcia-James,East Jessetown,Communication Equipment,2025-05-18,2025-05-16,-2,Helicopter,Low
+ORD-1185,Garcia-James,Lisatown,Medical Supplies,2025-03-27,2025-03-28,1,Convoy,High
+ORD-1186,Garcia-James,East Jill,Medical Supplies,2025-04-20,2025-04-25,5,Chartered Freight,High
+ORD-1187,Galloway-Wyatt,Robinsonshire,Vehicles,2025-04-25,2025-04-27,2,Convoy,Low
+ORD-1188,Williams and Sons,East Jill,Ammunition,2025-04-22,2025-04-21,-1,Chartered Freight,Medium
+ORD-1189,Blair PLC,Robinsonshire,Vehicles,2025-03-12,2025-03-10,-2,Chartered Freight,High
+ORD-1190,Galloway-Wyatt,Robinsonshire,Communication Equipment,2025-04-30,2025-05-02,2,Helicopter,Low
+ORD-1191,Williams and Sons,East Jill,Food,2025-05-05,2025-05-10,5,Truck,High
+ORD-1192,Moore-Bernard,North Judithbury,Fuel,2025-06-01,2025-06-02,1,Helicopter,Low
+ORD-1193,Galloway-Wyatt,East Jill,Medical Supplies,2025-05-10,2025-05-09,-1,Chartered Freight,Low
+ORD-1194,James Group,New Roberttown,Food,2025-04-11,2025-04-12,1,Convoy,Low
+ORD-1195,Abbott-Munoz,Lake Debra,Food,2025-03-12,2025-03-11,-1,Helicopter,Medium
+ORD-1196,Blair PLC,Robinsonshire,Ammunition,2025-04-20,2025-04-18,-2,Convoy,Low
+ORD-1197,"Mcclure, Ward and Lee",New Roberttown,Ammunition,2025-05-04,2025-05-09,5,Chartered Freight,Medium
+ORD-1198,Galloway-Wyatt,Robinsonshire,Ammunition,2025-05-09,2025-05-07,-2,Convoy,Low
+ORD-1199,Galloway-Wyatt,North Judithbury,Fuel,2025-05-04,2025-05-02,-2,Chartered Freight,Low
+ORD-1200,"Mcclure, Ward and Lee",Lake Roberto,Vehicles,2025-03-31,2025-03-30,-1,Truck,High
+ORD-1201,Garcia-James,East Jill,Fuel,2025-04-14,2025-04-14,0,Truck,High
+ORD-1202,"Mcclure, Ward and Lee",Robinsonshire,Ammunition,2025-05-06,2025-05-11,5,Helicopter,High
+ORD-1203,Garcia-James,Lisatown,Communication Equipment,2025-04-26,2025-04-27,1,Truck,High
+ORD-1204,"Mcclure, Ward and Lee",East Jessetown,Vehicles,2025-03-26,2025-03-26,0,Helicopter,High
+ORD-1205,"Mcclure, Ward and Lee",Lisatown,Communication Equipment,2025-05-22,2025-05-24,2,Truck,High
+ORD-1206,Arnold Ltd,Lake Debra,Medical Supplies,2025-04-06,2025-04-04,-2,Chartered Freight,High
+ORD-1207,Garcia-James,East Jill,Vehicles,2025-04-21,2025-04-21,0,Truck,High
+ORD-1208,Galloway-Wyatt,New Roberttown,Food,2025-05-07,2025-05-12,5,Truck,Low
+ORD-1209,"Mcclure, Ward and Lee",East Jill,Fuel,2025-05-12,2025-05-10,-2,Convoy,High
+ORD-1210,Dudley Group,North Judithbury,Ammunition,2025-04-06,2025-04-08,2,Truck,High
+ORD-1211,Abbott-Munoz,East Jessetown,Communication Equipment,2025-04-04,2025-04-02,-2,Chartered Freight,High
+ORD-1212,Garcia-James,Robinsonshire,Fuel,2025-04-21,2025-04-22,1,Truck,High
+ORD-1213,James Group,North Judithbury,Communication Equipment,2025-04-30,2025-04-29,-1,Helicopter,Low
+ORD-1214,Dudley Group,Lake Debra,Fuel,2025-04-18,2025-04-17,-1,Convoy,High
+ORD-1215,Garcia-James,Lisatown,Medical Supplies,2025-05-07,2025-05-09,2,Chartered Freight,Low
+ORD-1216,"Mcclure, Ward and Lee",East Jessetown,Vehicles,2025-04-17,2025-04-22,5,Chartered Freight,High
+ORD-1217,James Group,Robinsonshire,Ammunition,2025-04-09,2025-04-07,-2,Helicopter,Low
+ORD-1218,Garcia-James,North Judithbury,Fuel,2025-03-24,2025-03-24,0,Truck,Low
+ORD-1219,"Mcclure, Ward and Lee",Lake Roberto,Fuel,2025-04-27,2025-05-02,5,Chartered Freight,High
+ORD-1220,Garcia-James,Lisatown,Fuel,2025-05-12,2025-05-12,0,Truck,High
+ORD-1221,Moore-Bernard,Lake Debra,Medical Supplies,2025-05-15,2025-05-15,0,Chartered Freight,High
+ORD-1222,Dudley Group,East Jessetown,Medical Supplies,2025-05-12,2025-05-10,-2,Convoy,High
+ORD-1223,Garcia-James,Robinsonshire,Food,2025-05-01,2025-05-01,0,Truck,Low
+ORD-1224,Galloway-Wyatt,Lisatown,Communication Equipment,2025-03-29,2025-03-27,-2,Chartered Freight,Low
+ORD-1225,Garcia-James,Robinsonshire,Vehicles,2025-04-26,2025-04-26,0,Convoy,High
+ORD-1226,Garcia-James,Lake Roberto,Fuel,2025-04-30,2025-04-29,-1,Truck,Low
+ORD-1227,Dudley Group,Lisatown,Food,2025-03-20,2025-03-22,2,Truck,High
+ORD-1228,Arnold Ltd,Lake Roberto,Food,2025-03-18,2025-03-17,-1,Helicopter,High
+ORD-1229,Galloway-Wyatt,Lisatown,Food,2025-04-02,2025-03-31,-2,Chartered Freight,High
+ORD-1230,Arnold Ltd,East Jessetown,Medical Supplies,2025-03-30,2025-04-01,2,Helicopter,High
+ORD-1231,Arnold Ltd,East Jessetown,Fuel,2025-04-17,2025-04-16,-1,Chartered Freight,High
+ORD-1232,Garcia-James,East Jessetown,Medical Supplies,2025-04-02,2025-04-01,-1,Convoy,Low
+ORD-1233,Abbott-Munoz,East Jill,Communication Equipment,2025-03-07,2025-03-05,-2,Helicopter,High
+ORD-1234,James Group,Lake Roberto,Communication Equipment,2025-04-18,2025-04-16,-2,Truck,High
+ORD-1235,Abbott-Munoz,Robinsonshire,Vehicles,2025-03-23,2025-03-25,2,Truck,Low
+ORD-1236,James Group,Lake Debra,Food,2025-04-02,2025-04-03,1,Truck,Low
+ORD-1237,Moore-Bernard,Lake Roberto,Food,2025-05-16,2025-05-15,-1,Chartered Freight,High
+ORD-1238,James Group,East Jill,Ammunition,2025-05-02,2025-05-04,2,Truck,High
+ORD-1239,Williams and Sons,North Judithbury,Ammunition,2025-03-23,2025-03-28,5,Chartered Freight,Low
+ORD-1240,Moore-Bernard,New Roberttown,Vehicles,2025-03-27,2025-03-26,-1,Chartered Freight,Medium
+ORD-1241,Galloway-Wyatt,East Jill,Communication Equipment,2025-03-29,2025-03-27,-2,Chartered Freight,Low
+ORD-1242,Galloway-Wyatt,Lake Roberto,Ammunition,2025-03-21,2025-03-20,-1,Convoy,High
+ORD-1243,"Mcclure, Ward and Lee",Lisatown,Fuel,2025-04-26,2025-04-24,-2,Truck,Low
+ORD-1244,Garcia-James,Robinsonshire,Fuel,2025-04-04,2025-04-05,1,Chartered Freight,High
+ORD-1245,James Group,Lake Debra,Medical Supplies,2025-05-03,2025-05-01,-2,Helicopter,High
+ORD-1246,Dudley Group,Robinsonshire,Communication Equipment,2025-05-01,2025-05-03,2,Convoy,Low
+ORD-1247,Dudley Group,East Jill,Ammunition,2025-05-29,2025-05-29,0,Convoy,Medium
+ORD-1248,"Mcclure, Ward and Lee",East Jill,Ammunition,2025-04-10,2025-04-12,2,Truck,Low
+ORD-1249,Arnold Ltd,East Jessetown,Vehicles,2025-04-08,2025-04-09,1,Chartered Freight,Medium
+ORD-1250,Dudley Group,East Jill,Food,2025-05-11,2025-05-10,-1,Chartered Freight,Low
+ORD-1251,Arnold Ltd,North Judithbury,Ammunition,2025-03-17,2025-03-17,0,Convoy,High
+ORD-1252,James Group,New Roberttown,Medical Supplies,2025-03-27,2025-03-26,-1,Convoy,High
+ORD-1253,Williams and Sons,East Jessetown,Ammunition,2025-03-14,2025-03-14,0,Convoy,Medium
+ORD-1254,Dudley Group,East Jessetown,Vehicles,2025-05-03,2025-05-03,0,Helicopter,High
+ORD-1255,Williams and Sons,Lake Roberto,Fuel,2025-04-04,2025-04-05,1,Chartered Freight,Low
+ORD-1256,Blair PLC,New Roberttown,Ammunition,2025-03-16,2025-03-18,2,Convoy,Low
+ORD-1257,Arnold Ltd,Lake Roberto,Ammunition,2025-03-28,2025-03-29,1,Truck,Low
+ORD-1258,Garcia-James,Lake Debra,Medical Supplies,2025-03-06,2025-03-08,2,Chartered Freight,Low
+ORD-1259,Garcia-James,Lisatown,Medical Supplies,2025-04-13,2025-04-13,0,Convoy,Low
+ORD-1260,Moore-Bernard,Lisatown,Vehicles,2025-03-05,2025-03-06,1,Chartered Freight,High
+ORD-1261,Blair PLC,Robinsonshire,Food,2025-05-06,2025-05-07,1,Chartered Freight,Low
+ORD-1262,Abbott-Munoz,Robinsonshire,Medical Supplies,2025-04-13,2025-04-15,2,Truck,High
+ORD-1263,Williams and Sons,New Roberttown,Vehicles,2025-04-04,2025-04-06,2,Chartered Freight,High
+ORD-1264,Blair PLC,Lake Debra,Medical Supplies,2025-04-26,2025-04-28,2,Chartered Freight,Low
+ORD-1265,Garcia-James,Lisatown,Fuel,2025-05-28,2025-05-26,-2,Helicopter,Low
+ORD-1266,James Group,Lisatown,Vehicles,2025-03-05,2025-03-04,-1,Helicopter,Medium
+ORD-1267,Galloway-Wyatt,North Judithbury,Ammunition,2025-03-29,2025-03-30,1,Chartered Freight,High
+ORD-1268,James Group,North Judithbury,Fuel,2025-03-09,2025-03-11,2,Chartered Freight,High
+ORD-1269,Galloway-Wyatt,East Jill,Fuel,2025-03-28,2025-03-29,1,Convoy,Low
+ORD-1270,"Mcclure, Ward and Lee",North Judithbury,Vehicles,2025-03-29,2025-04-03,5,Convoy,Low
+ORD-1271,Arnold Ltd,North Judithbury,Food,2025-04-30,2025-04-29,-1,Helicopter,High
+ORD-1272,James Group,East Jill,Communication Equipment,2025-03-20,2025-03-19,-1,Helicopter,High
+ORD-1273,Abbott-Munoz,Robinsonshire,Communication Equipment,2025-03-28,2025-03-27,-1,Truck,High
+ORD-1274,Abbott-Munoz,New Roberttown,Food,2025-04-06,2025-04-11,5,Helicopter,Medium
+ORD-1275,Blair PLC,Lake Debra,Food,2025-03-19,2025-03-21,2,Truck,High
+ORD-1276,Galloway-Wyatt,Lake Debra,Vehicles,2025-03-09,2025-03-14,5,Chartered Freight,Low
+ORD-1277,Dudley Group,East Jessetown,Fuel,2025-03-21,2025-03-23,2,Helicopter,Low
+ORD-1278,Garcia-James,Lake Debra,Fuel,2025-04-01,2025-04-02,1,Chartered Freight,High
+ORD-1279,Arnold Ltd,Lisatown,Medical Supplies,2025-04-09,2025-04-09,0,Chartered Freight,High
+ORD-1280,Garcia-James,Lake Debra,Communication Equipment,2025-05-24,2025-05-29,5,Chartered Freight,High
+ORD-1281,Arnold Ltd,Lake Debra,Food,2025-03-02,2025-02-28,-2,Chartered Freight,High
+ORD-1282,James Group,Lake Roberto,Communication Equipment,2025-04-19,2025-04-21,2,Truck,Low
+ORD-1283,Moore-Bernard,Lake Roberto,Communication Equipment,2025-03-08,2025-03-09,1,Convoy,Low
+ORD-1284,Moore-Bernard,Lake Debra,Food,2025-05-14,2025-05-13,-1,Truck,High
+ORD-1285,Moore-Bernard,New Roberttown,Medical Supplies,2025-03-31,2025-03-29,-2,Chartered Freight,High
+ORD-1286,Garcia-James,New Roberttown,Medical Supplies,2025-03-21,2025-03-23,2,Chartered Freight,Low
+ORD-1287,James Group,North Judithbury,Medical Supplies,2025-04-17,2025-04-17,0,Convoy,Low
+ORD-1288,Garcia-James,Lake Roberto,Ammunition,2025-04-03,2025-04-01,-2,Helicopter,Medium
+ORD-1289,Blair PLC,Lake Debra,Food,2025-03-24,2025-03-29,5,Chartered Freight,High
+ORD-1290,Galloway-Wyatt,Lisatown,Food,2025-05-11,2025-05-10,-1,Helicopter,Low
+ORD-1291,James Group,East Jessetown,Fuel,2025-04-18,2025-04-18,0,Chartered Freight,Low
+ORD-1292,Abbott-Munoz,East Jill,Food,2025-05-14,2025-05-19,5,Truck,Low
+ORD-1293,Arnold Ltd,East Jill,Communication Equipment,2025-05-18,2025-05-16,-2,Helicopter,Low
+ORD-1294,Dudley Group,Lake Debra,Medical Supplies,2025-04-17,2025-04-19,2,Chartered Freight,High
+ORD-1295,Arnold Ltd,New Roberttown,Ammunition,2025-04-25,2025-04-24,-1,Chartered Freight,Low
+ORD-1296,Blair PLC,New Roberttown,Vehicles,2025-05-26,2025-05-26,0,Chartered Freight,High
+ORD-1297,Galloway-Wyatt,Lake Roberto,Medical Supplies,2025-04-25,2025-04-30,5,Convoy,Low
+ORD-1298,Williams and Sons,Lisatown,Ammunition,2025-05-07,2025-05-07,0,Truck,Low
+ORD-1299,Arnold Ltd,New Roberttown,Communication Equipment,2025-04-19,2025-04-21,2,Truck,High

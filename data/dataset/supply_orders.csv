@@ -1,0 +1,301 @@
+order_id,order_date,base,vendor,supply_category,units_ordered,unit_cost,total_cost,priority,requested_by,expected_delivery_date
+ORD-1000,2025-04-10,East Jill,Moore-Bernard,Communication Equipment,301,565.29,170153.65,Routine,Jacob Clark,2025-05-05
+ORD-1001,2025-03-12,East Jill,Galloway-Wyatt,Food,624,901.65,562630.51,Routine,Maria Lynch,2025-04-09
+ORD-1002,2025-03-04,East Jessetown,Blair PLC,Ammunition,636,150.42,95666.07,Routine,Carla Gray,2025-03-11
+ORD-1003,2025-05-09,Lisatown,Blair PLC,Vehicles,623,628.56,391594.34,Routine,Kristin Cohen,2025-06-05
+ORD-1004,2025-04-27,New Roberttown,"Mcclure, Ward and Lee",Fuel,304,395.41,120204.96,Urgent,Crystal Johnson,2025-05-26
+ORD-1005,2025-03-16,East Jill,"Mcclure, Ward and Lee",Food,387,1710.24,661862.61,Emergency,Daniel Hahn,2025-03-24
+ORD-1006,2025-04-30,North Judithbury,Williams and Sons,Ammunition,147,1948.92,286491.23,Urgent,Matthew Foster,2025-05-13
+ORD-1007,2025-05-03,Lake Debra,James Group,Fuel,611,465.35,284327.82,Routine,Derek Wright,2025-05-10
+ORD-1008,2025-04-04,East Jessetown,Dudley Group,Food,895,542.3,485360.9,Routine,Kevin Hurst,2025-04-10
+ORD-1009,2025-03-22,Lake Debra,Williams and Sons,Communication Equipment,874,793.18,693240.32,Urgent,Zachary Hicks,2025-04-08
+ORD-1010,2025-02-26,East Jessetown,Dudley Group,Communication Equipment,979,1398.74,1369367.01,Routine,Brian Burton,2025-03-14
+ORD-1011,2025-04-23,New Roberttown,Galloway-Wyatt,Communication Equipment,270,410.46,110825.48,Urgent,Arthur James,2025-05-17
+ORD-1012,2025-05-09,East Jessetown,Arnold Ltd,Food,254,1661.42,422001.93,Urgent,Tricia Valencia,2025-05-22
+ORD-1013,2025-02-19,Lake Debra,Garcia-James,Medical Supplies,955,1891.53,1806409.68,Emergency,Melanie Herrera,2025-03-08
+ORD-1014,2025-03-12,East Jessetown,Williams and Sons,Vehicles,925,1837.64,1699817.39,Urgent,Ashley Graham,2025-03-27
+ORD-1015,2025-03-27,Lake Debra,Abbott-Munoz,Medical Supplies,782,1166.6,912280.77,Urgent,Sherri Baker,2025-04-05
+ORD-1016,2025-03-31,Lisatown,James Group,Vehicles,390,516.71,201516.68,Routine,Thomas Harrell,2025-04-28
+ORD-1017,2025-03-14,Lake Roberto,Garcia-James,Food,901,308.33,277808.35,Emergency,Lisa Hernandez,2025-04-04
+ORD-1018,2025-04-21,Lisatown,James Group,Food,414,825.08,341581.73,Urgent,Paula Moreno,2025-05-01
+ORD-1019,2025-02-19,Lake Debra,Galloway-Wyatt,Food,716,1469.37,1052069.96,Emergency,Alec Hickman,2025-03-12
+ORD-1020,2025-04-30,Lake Debra,Arnold Ltd,Food,320,926.05,296337.27,Urgent,Elizabeth Brown,2025-05-22
+ORD-1021,2025-04-30,Lake Debra,Galloway-Wyatt,Medical Supplies,539,1833.99,988522.17,Emergency,Angelica Tucker,2025-05-05
+ORD-1022,2025-02-24,East Jessetown,Abbott-Munoz,Fuel,800,406.94,325554.53,Emergency,Pamela Anderson,2025-03-10
+ORD-1023,2025-03-29,Robinsonshire,Williams and Sons,Food,134,1865.29,249948.51,Urgent,Deborah Brennan,2025-04-03
+ORD-1024,2025-03-24,North Judithbury,Blair PLC,Ammunition,989,249.64,246892.37,Emergency,Joshua Blair,2025-04-05
+ORD-1025,2025-03-07,East Jill,Galloway-Wyatt,Medical Supplies,151,1353.53,204382.51,Emergency,Zachary Santos,2025-03-27
+ORD-1026,2025-03-26,Lake Debra,Galloway-Wyatt,Ammunition,453,1932.29,875327.15,Emergency,Barbara Walker,2025-04-05
+ORD-1027,2025-03-18,East Jessetown,Dudley Group,Vehicles,707,1334.77,943681.19,Urgent,Crystal Robinson,2025-04-16
+ORD-1028,2025-02-24,Lake Roberto,Garcia-James,Medical Supplies,250,221.65,55412.3,Routine,Crystal Whitehead,2025-03-17
+ORD-1029,2025-04-28,East Jessetown,James Group,Medical Supplies,27,234.89,6341.95,Emergency,David Caldwell,2025-05-21
+ORD-1030,2025-03-08,East Jessetown,Garcia-James,Food,900,727.81,655032.72,Emergency,Timothy Duncan,2025-03-14
+ORD-1031,2025-03-28,Lake Debra,Williams and Sons,Medical Supplies,572,351.39,200996.52,Emergency,Rhonda Lee,2025-04-09
+ORD-1032,2025-02-26,Lake Roberto,Blair PLC,Vehicles,846,873.41,738908.18,Routine,Jeff Owens,2025-03-21
+ORD-1033,2025-04-18,Lisatown,Arnold Ltd,Vehicles,440,987.35,434432.62,Emergency,Victoria Garcia,2025-04-26
+ORD-1034,2025-03-23,East Jill,Moore-Bernard,Vehicles,765,744.67,569676.34,Routine,Scott Wright,2025-03-29
+ORD-1035,2025-03-06,East Jessetown,Blair PLC,Ammunition,479,366.35,175479.91,Routine,Javier Ramirez,2025-03-18
+ORD-1036,2025-03-10,Lake Roberto,Blair PLC,Food,473,1635.24,773469.59,Emergency,Jessica Callahan,2025-03-23
+ORD-1037,2025-04-04,North Judithbury,Galloway-Wyatt,Food,115,1860.1,213911.19,Routine,Zachary Huff,2025-04-12
+ORD-1038,2025-05-07,Lisatown,Williams and Sons,Vehicles,238,1742.84,414794.91,Routine,Sarah Martin,2025-05-17
+ORD-1039,2025-03-29,Lisatown,Moore-Bernard,Vehicles,291,1860.38,541371.84,Urgent,James Brown,2025-04-08
+ORD-1040,2025-03-21,Lisatown,Galloway-Wyatt,Communication Equipment,755,1024.68,773630.14,Routine,Mrs. Rachel Gibson,2025-04-04
+ORD-1041,2025-03-24,East Jessetown,Moore-Bernard,Ammunition,773,1130.17,873622.09,Emergency,Whitney Peters,2025-04-07
+ORD-1042,2025-04-17,North Judithbury,Moore-Bernard,Ammunition,508,1055.42,536151.19,Emergency,Edward Novak,2025-05-02
+ORD-1043,2025-04-06,North Judithbury,Galloway-Wyatt,Food,891,453.07,403683.08,Emergency,Nicole Brown,2025-04-16
+ORD-1044,2025-04-06,East Jessetown,"Mcclure, Ward and Lee",Food,984,1791.55,1762881.16,Routine,Sarah Moore,2025-04-13
+ORD-1045,2025-05-06,North Judithbury,James Group,Food,449,1349.01,605705.05,Emergency,Cody Larson,2025-05-29
+ORD-1046,2025-04-14,Robinsonshire,Dudley Group,Medical Supplies,705,1460.76,1029838.92,Routine,Bryan Zamora,2025-05-05
+ORD-1047,2025-03-10,Lisatown,Abbott-Munoz,Communication Equipment,680,669.99,455596.23,Urgent,Lisa Barnes,2025-03-23
+ORD-1048,2025-04-06,East Jill,Moore-Bernard,Vehicles,656,1997.06,1310073.62,Routine,Taylor Harris,2025-05-05
+ORD-1049,2025-04-17,East Jessetown,Galloway-Wyatt,Fuel,155,1873.19,290344.89,Routine,James Powers,2025-04-24
+ORD-1050,2025-03-14,Robinsonshire,Dudley Group,Medical Supplies,468,1684.12,788166.01,Emergency,Paul Jones,2025-03-26
+ORD-1051,2025-03-27,North Judithbury,Galloway-Wyatt,Fuel,974,1360.44,1325067.16,Routine,Dr. Angel Lewis MD,2025-04-10
+ORD-1052,2025-05-04,East Jill,Garcia-James,Communication Equipment,586,395.35,231675.7,Urgent,Sherry Wood,2025-05-17
+ORD-1053,2025-03-03,East Jessetown,Arnold Ltd,Medical Supplies,723,1305.05,943552.68,Urgent,Michele Carr,2025-03-27
+ORD-1054,2025-05-08,Lake Roberto,Dudley Group,Food,114,1305.14,148786.01,Urgent,Aimee Montoya,2025-05-29
+ORD-1055,2025-03-14,North Judithbury,Arnold Ltd,Medical Supplies,672,1961.62,1318206.03,Routine,Teresa Taylor,2025-03-20
+ORD-1056,2025-02-28,Lake Roberto,Galloway-Wyatt,Communication Equipment,457,1165.72,532735.43,Routine,Juan Nelson,2025-03-28
+ORD-1057,2025-04-08,New Roberttown,Galloway-Wyatt,Food,874,801.51,700520.06,Emergency,Christina Walters,2025-04-15
+ORD-1058,2025-03-12,Lisatown,Abbott-Munoz,Food,335,792.84,265600.69,Routine,Taylor Mathis Jr.,2025-03-21
+ORD-1059,2025-03-24,East Jessetown,Blair PLC,Communication Equipment,125,771.99,96498.68,Emergency,Aaron Wise,2025-04-09
+ORD-1060,2025-04-10,New Roberttown,Blair PLC,Medical Supplies,839,1640.47,1376351.2,Urgent,Patrick Arnold,2025-04-28
+ORD-1061,2025-03-25,New Roberttown,Arnold Ltd,Vehicles,841,1372.82,1154544.6,Emergency,Benjamin Ware,2025-03-30
+ORD-1062,2025-05-02,East Jessetown,Dudley Group,Medical Supplies,826,1432.43,1183185.99,Urgent,Sandra Aguilar,2025-06-01
+ORD-1063,2025-03-02,Lake Roberto,Blair PLC,Medical Supplies,856,1845.06,1579370.17,Urgent,Eric Nolan,2025-03-08
+ORD-1064,2025-04-23,East Jessetown,Blair PLC,Food,695,466.95,324527.89,Urgent,Stephanie Clark,2025-05-07
+ORD-1065,2025-03-10,East Jill,Dudley Group,Fuel,676,1067.87,721880.65,Emergency,Richard Henson,2025-03-23
+ORD-1066,2025-03-23,Robinsonshire,Moore-Bernard,Food,918,1943.76,1784372.75,Routine,Brittany Spears,2025-04-14
+ORD-1067,2025-04-29,Lake Debra,Moore-Bernard,Food,630,925.67,583172.82,Emergency,Rita Keith,2025-05-22
+ORD-1068,2025-02-20,Robinsonshire,"Mcclure, Ward and Lee",Ammunition,543,319.73,173611.76,Emergency,Evelyn Galvan,2025-03-22
+ORD-1069,2025-04-24,Lake Debra,Moore-Bernard,Communication Equipment,466,103.21,48097.46,Emergency,Rita Adams,2025-05-05
+ORD-1070,2025-04-22,East Jessetown,Arnold Ltd,Vehicles,91,1902.86,173160.4,Urgent,Shane Garrison,2025-05-18
+ORD-1071,2025-03-08,Robinsonshire,Garcia-James,Communication Equipment,941,670.61,631046.18,Urgent,Julia Torres,2025-04-01
+ORD-1072,2025-04-23,Lisatown,Arnold Ltd,Vehicles,733,661.74,485059.0,Routine,Alexander Lee,2025-05-19
+ORD-1073,2025-03-17,Lisatown,"Mcclure, Ward and Lee",Communication Equipment,786,1815.33,1426849.8,Emergency,Tracy Ramirez,2025-03-28
+ORD-1074,2025-04-11,Lake Debra,"Mcclure, Ward and Lee",Ammunition,873,100.77,87973.33,Urgent,William Herrera,2025-05-04
+ORD-1075,2025-05-05,Lisatown,James Group,Ammunition,690,712.27,491468.74,Urgent,Wesley White,2025-05-16
+ORD-1076,2025-05-07,East Jessetown,Galloway-Wyatt,Vehicles,832,1812.24,1507786.65,Emergency,Brian Hamilton,2025-05-26
+ORD-1077,2025-04-18,East Jill,Dudley Group,Ammunition,699,1302.59,910508.75,Urgent,Larry Dixon,2025-04-28
+ORD-1078,2025-03-21,East Jessetown,Dudley Group,Medical Supplies,845,478.35,404203.11,Routine,Dawn Fletcher,2025-03-28
+ORD-1079,2025-02-19,East Jessetown,Williams and Sons,Ammunition,890,1560.13,1388515.47,Urgent,Kimberly Ball,2025-02-25
+ORD-1080,2025-04-19,East Jessetown,"Mcclure, Ward and Lee",Vehicles,429,563.57,241771.72,Emergency,Helen Jones,2025-05-07
+ORD-1081,2025-04-13,North Judithbury,Garcia-James,Vehicles,244,434.18,105941.07,Emergency,Erik Charles,2025-05-10
+ORD-1082,2025-04-17,Lake Roberto,Moore-Bernard,Ammunition,275,1843.19,506878.08,Routine,Eric Ortiz,2025-05-08
+ORD-1083,2025-03-23,New Roberttown,Williams and Sons,Communication Equipment,563,1977.0,1113048.56,Emergency,Cameron Fisher,2025-04-11
+ORD-1084,2025-05-05,Lake Roberto,James Group,Communication Equipment,933,1059.08,988120.25,Emergency,Stephanie Gilbert,2025-05-20
+ORD-1085,2025-03-15,New Roberttown,Williams and Sons,Vehicles,285,1528.38,435587.13,Emergency,April Mitchell,2025-04-03
+ORD-1086,2025-03-25,Lake Roberto,Blair PLC,Fuel,470,247.22,116192.64,Urgent,Mary Marshall,2025-04-07
+ORD-1087,2025-03-26,Lake Debra,Arnold Ltd,Fuel,934,1126.29,1051954.13,Routine,John Santana,2025-04-07
+ORD-1088,2025-04-23,East Jessetown,"Mcclure, Ward and Lee",Communication Equipment,176,1442.2,253826.56,Routine,Bradley Robertson,2025-05-02
+ORD-1089,2025-04-10,Lisatown,Arnold Ltd,Ammunition,497,889.97,442315.61,Routine,Robert Potter,2025-04-28
+ORD-1090,2025-04-13,Lisatown,James Group,Communication Equipment,40,1727.79,69111.63,Emergency,Curtis Johnson,2025-05-01
+ORD-1091,2025-03-10,Lake Roberto,Moore-Bernard,Fuel,325,1531.6,497770.89,Urgent,Samuel Jones,2025-03-27
+ORD-1092,2025-03-24,East Jessetown,Williams and Sons,Medical Supplies,299,928.09,277498.42,Routine,Cheyenne Horton,2025-04-15
+ORD-1093,2025-03-30,Robinsonshire,"Mcclure, Ward and Lee",Communication Equipment,189,1696.96,320725.58,Routine,Matthew Smith,2025-04-16
+ORD-1094,2025-04-20,North Judithbury,"Mcclure, Ward and Lee",Ammunition,597,1359.7,811740.62,Routine,Ashley Coleman,2025-05-14
+ORD-1095,2025-03-05,Lisatown,Abbott-Munoz,Vehicles,206,195.54,40281.41,Urgent,Kelly Williams,2025-03-30
+ORD-1096,2025-03-10,East Jessetown,Williams and Sons,Fuel,365,1546.34,564412.8,Urgent,Joyce Solis,2025-03-25
+ORD-1097,2025-04-13,Lisatown,Dudley Group,Food,501,136.83,68550.95,Emergency,Linda Dodson DVM,2025-04-26
+ORD-1098,2025-04-09,Robinsonshire,Blair PLC,Communication Equipment,90,1584.34,142590.85,Emergency,Kathy Rivas,2025-04-15
+ORD-1099,2025-04-03,North Judithbury,Blair PLC,Medical Supplies,879,138.72,121936.67,Routine,Natasha Wells,2025-04-09
+ORD-1100,2025-03-11,New Roberttown,Williams and Sons,Communication Equipment,137,1171.54,160501.28,Routine,Mark Cannon,2025-03-23
+ORD-1101,2025-04-01,Lake Debra,Arnold Ltd,Medical Supplies,640,1253.77,802412.95,Emergency,Denise Jones,2025-04-20
+ORD-1102,2025-03-13,East Jill,Abbott-Munoz,Fuel,130,1199.5,155935.13,Urgent,Francisco Fernandez,2025-04-09
+ORD-1103,2025-03-02,Lisatown,"Mcclure, Ward and Lee",Communication Equipment,223,244.39,54499.71,Emergency,Michael Mccarthy,2025-03-25
+ORD-1104,2025-02-24,East Jessetown,Garcia-James,Communication Equipment,811,673.01,545808.76,Emergency,Joshua Perry,2025-03-21
+ORD-1105,2025-03-07,East Jill,James Group,Food,375,1112.22,417080.99,Emergency,Taylor Silva,2025-03-31
+ORD-1106,2025-04-15,East Jill,Galloway-Wyatt,Communication Equipment,369,124.04,45770.42,Urgent,Pamela James,2025-05-01
+ORD-1107,2025-02-19,East Jill,"Mcclure, Ward and Lee",Fuel,670,1793.99,1201974.99,Urgent,Paul Castaneda,2025-03-11
+ORD-1108,2025-05-06,New Roberttown,"Mcclure, Ward and Lee",Medical Supplies,771,1091.32,841406.81,Emergency,Paul Payne,2025-06-02
+ORD-1109,2025-04-08,Lake Roberto,Williams and Sons,Vehicles,865,1488.95,1287941.58,Urgent,Daniel Graham,2025-04-21
+ORD-1110,2025-02-21,East Jessetown,Garcia-James,Fuel,922,956.52,881914.94,Urgent,Michael Powell,2025-03-08
+ORD-1111,2025-03-04,Lisatown,Arnold Ltd,Food,526,1716.81,903042.26,Routine,Cameron Dean,2025-03-27
+ORD-1112,2025-02-21,East Jessetown,Arnold Ltd,Fuel,368,631.35,232337.21,Emergency,Justin Johnson,2025-03-13
+ORD-1113,2025-04-11,Lake Debra,Galloway-Wyatt,Food,549,1901.32,1043824.07,Routine,Joel Williams,2025-05-08
+ORD-1114,2025-03-21,Lisatown,Williams and Sons,Ammunition,796,556.62,443065.92,Urgent,Gabriel Juarez,2025-04-02
+ORD-1115,2025-03-21,Lake Roberto,Williams and Sons,Food,115,659.05,75790.47,Urgent,Sandra King,2025-04-15
+ORD-1116,2025-02-25,East Jessetown,Dudley Group,Communication Equipment,615,801.14,492700.4,Emergency,Joshua Cooke,2025-03-24
+ORD-1117,2025-03-18,Robinsonshire,"Mcclure, Ward and Lee",Communication Equipment,583,728.5,424717.52,Emergency,Rachael Pearson,2025-04-08
+ORD-1118,2025-04-20,Lake Debra,Dudley Group,Fuel,256,329.25,84287.02,Routine,Christina Smith,2025-05-09
+ORD-1119,2025-03-03,East Jill,Galloway-Wyatt,Communication Equipment,209,463.93,96960.92,Emergency,Michael Elliott,2025-03-18
+ORD-1120,2025-03-08,Lake Debra,James Group,Ammunition,631,637.7,402387.15,Routine,Pamela Jackson,2025-03-28
+ORD-1121,2025-04-08,Lake Debra,Blair PLC,Fuel,203,674.31,136884.61,Emergency,Ashley Weiss,2025-04-19
+ORD-1122,2025-05-07,New Roberttown,Dudley Group,Food,75,1151.38,86353.65,Emergency,Alexander Collins,2025-05-29
+ORD-1123,2025-04-14,Lake Roberto,Garcia-James,Food,607,640.24,388628.55,Urgent,Jennifer Espinoza,2025-04-23
+ORD-1124,2025-02-25,Robinsonshire,Abbott-Munoz,Food,278,1888.02,524869.79,Urgent,Lori Garcia,2025-03-16
+ORD-1125,2025-04-21,East Jill,"Mcclure, Ward and Lee",Vehicles,95,1196.34,113652.32,Emergency,Lindsay Martinez,2025-04-29
+ORD-1126,2025-05-08,New Roberttown,Abbott-Munoz,Ammunition,991,677.29,671191.89,Routine,Hannah Patterson,2025-05-14
+ORD-1127,2025-03-20,Lisatown,James Group,Ammunition,829,1274.99,1056970.75,Emergency,Gloria Atkinson,2025-03-28
+ORD-1128,2025-04-25,Lake Roberto,Williams and Sons,Fuel,900,1218.2,1096377.99,Urgent,Tyler Reid,2025-05-12
+ORD-1129,2025-04-26,North Judithbury,James Group,Communication Equipment,121,1900.42,229950.99,Routine,Jessica Gross,2025-05-10
+ORD-1130,2025-05-07,East Jessetown,Dudley Group,Communication Equipment,103,398.41,41036.07,Routine,Robert Medina,2025-06-01
+ORD-1131,2025-03-29,East Jill,Abbott-Munoz,Food,438,955.96,418709.18,Emergency,Nicholas Adams,2025-04-20
+ORD-1132,2025-04-28,Lake Debra,Moore-Bernard,Medical Supplies,315,1443.22,454613.06,Emergency,Angelica Keith,2025-05-18
+ORD-1133,2025-03-10,East Jill,Blair PLC,Fuel,826,1603.37,1324384.21,Emergency,Leonard Gray,2025-03-29
+ORD-1134,2025-02-21,East Jessetown,"Mcclure, Ward and Lee",Food,577,527.14,304158.6,Routine,Catherine Lewis,2025-03-19
+ORD-1135,2025-04-23,New Roberttown,Garcia-James,Food,189,1605.99,303532.92,Emergency,Spencer Haynes,2025-05-06
+ORD-1136,2025-03-13,Lake Debra,Williams and Sons,Food,499,1408.49,702835.6,Emergency,Travis Miller,2025-04-10
+ORD-1137,2025-04-17,Lake Debra,Galloway-Wyatt,Ammunition,525,931.74,489164.47,Emergency,Peter Vaughn DDS,2025-05-04
+ORD-1138,2025-03-30,Lisatown,Arnold Ltd,Ammunition,276,149.14,41163.55,Routine,Anna Walker,2025-04-05
+ORD-1139,2025-04-15,North Judithbury,Dudley Group,Ammunition,61,1549.91,94544.33,Routine,Kevin Kennedy,2025-05-11
+ORD-1140,2025-04-02,Lake Roberto,Dudley Group,Medical Supplies,619,928.18,574544.33,Urgent,Patrick Rivera,2025-04-22
+ORD-1141,2025-04-16,Lake Roberto,Arnold Ltd,Vehicles,361,710.01,256313.86,Routine,David Martinez,2025-04-23
+ORD-1142,2025-03-06,Robinsonshire,"Mcclure, Ward and Lee",Communication Equipment,527,647.61,341292.48,Urgent,Joshua Gill,2025-03-16
+ORD-1143,2025-03-05,North Judithbury,Williams and Sons,Food,342,579.56,198208.77,Routine,John Hardy,2025-04-03
+ORD-1144,2025-05-08,Lisatown,Galloway-Wyatt,Food,693,1751.8,1213996.17,Urgent,Diane Garcia,2025-06-06
+ORD-1145,2025-03-06,North Judithbury,Blair PLC,Ammunition,390,1283.0,500371.7,Urgent,Christopher Smith,2025-03-24
+ORD-1146,2025-04-02,Lake Roberto,Moore-Bernard,Medical Supplies,293,1143.52,335050.57,Urgent,William Tran,2025-04-27
+ORD-1147,2025-04-15,Lake Roberto,Garcia-James,Food,665,1256.86,835809.35,Routine,Sean Henry,2025-05-04
+ORD-1148,2025-04-29,New Roberttown,Dudley Group,Ammunition,34,1149.28,39075.44,Routine,Julie Alexander,2025-05-26
+ORD-1149,2025-03-05,East Jill,Williams and Sons,Food,683,1681.07,1148172.2,Urgent,Todd Woods,2025-03-17
+ORD-1150,2025-04-25,Lake Debra,Galloway-Wyatt,Communication Equipment,299,889.43,265940.06,Urgent,Benjamin Soto,2025-05-22
+ORD-1151,2025-02-23,East Jessetown,Williams and Sons,Ammunition,168,828.81,139240.66,Emergency,Justin Torres,2025-03-15
+ORD-1152,2025-05-09,New Roberttown,Garcia-James,Fuel,811,1601.01,1298420.53,Urgent,Phillip Obrien,2025-05-30
+ORD-1153,2025-04-23,Lake Debra,Moore-Bernard,Fuel,763,667.26,509116.42,Emergency,Joseph Hayes,2025-05-08
+ORD-1154,2025-03-26,Lake Roberto,Abbott-Munoz,Vehicles,571,1020.25,582561.97,Urgent,Wanda Torres,2025-04-18
+ORD-1155,2025-04-09,Lisatown,Williams and Sons,Fuel,910,458.44,417179.95,Emergency,Natalie Meza,2025-05-01
+ORD-1156,2025-03-07,Lisatown,Blair PLC,Vehicles,64,704.54,45090.24,Urgent,Matthew Moore,2025-03-19
+ORD-1157,2025-03-04,Lisatown,"Mcclure, Ward and Lee",Communication Equipment,831,1659.42,1378978.31,Routine,Aaron Hayes,2025-03-31
+ORD-1158,2025-04-07,North Judithbury,Abbott-Munoz,Ammunition,624,730.79,456012.92,Routine,David Mann,2025-04-27
+ORD-1159,2025-04-16,East Jill,Galloway-Wyatt,Vehicles,35,1472.64,51542.51,Urgent,Michael Bradshaw,2025-05-05
+ORD-1160,2025-04-23,New Roberttown,Garcia-James,Vehicles,820,1941.49,1592019.26,Urgent,Mary Peck,2025-05-18
+ORD-1161,2025-03-25,Lisatown,Garcia-James,Fuel,892,1381.28,1232101.08,Emergency,Maria Kerr,2025-04-18
+ORD-1162,2025-04-26,Robinsonshire,Williams and Sons,Ammunition,56,1273.17,71297.69,Routine,Christopher Parker,2025-05-13
+ORD-1163,2025-04-19,Lake Debra,Blair PLC,Communication Equipment,112,924.55,103549.13,Routine,Donna Martinez,2025-05-14
+ORD-1164,2025-04-15,East Jill,Williams and Sons,Medical Supplies,730,668.99,488359.45,Routine,Terri Mason,2025-05-14
+ORD-1165,2025-03-30,Robinsonshire,Moore-Bernard,Fuel,387,812.2,314320.65,Routine,Andrew Reynolds,2025-04-05
+ORD-1166,2025-03-16,Lisatown,James Group,Communication Equipment,831,442.11,367391.82,Routine,Brandon Hayden,2025-03-28
+ORD-1167,2025-04-26,Lisatown,James Group,Communication Equipment,266,1045.57,278121.03,Emergency,Tiffany Key,2025-05-03
+ORD-1168,2025-04-13,East Jessetown,Williams and Sons,Communication Equipment,280,973.18,272491.51,Emergency,Andrew Avila,2025-04-22
+ORD-1169,2025-03-28,Lake Roberto,Dudley Group,Communication Equipment,579,400.15,231688.98,Urgent,Sydney White,2025-04-02
+ORD-1170,2025-04-06,Lake Debra,"Mcclure, Ward and Lee",Communication Equipment,276,967.99,267164.7,Urgent,Katherine Davis,2025-04-22
+ORD-1171,2025-03-18,Lisatown,Williams and Sons,Food,262,824.59,216043.15,Urgent,Michael Hodge,2025-03-29
+ORD-1172,2025-03-17,Lake Debra,Dudley Group,Food,869,1350.64,1173703.25,Urgent,Donna Landry,2025-04-09
+ORD-1173,2025-04-25,North Judithbury,James Group,Communication Equipment,528,1682.39,888303.98,Urgent,Jordan Edwards,2025-04-30
+ORD-1174,2025-03-16,East Jessetown,James Group,Fuel,244,1309.57,319536.05,Emergency,Jennifer Robertson,2025-04-14
+ORD-1175,2025-05-09,New Roberttown,Garcia-James,Communication Equipment,681,174.9,119108.87,Urgent,Kimberly Gutierrez,2025-05-22
+ORD-1176,2025-03-06,Robinsonshire,Abbott-Munoz,Food,951,660.71,628335.08,Emergency,Peter Garrett,2025-03-12
+ORD-1177,2025-04-20,New Roberttown,Blair PLC,Medical Supplies,825,1124.87,928021.66,Urgent,Joshua Pennington,2025-05-08
+ORD-1178,2025-03-26,Lake Debra,Abbott-Munoz,Fuel,955,1666.91,1591899.66,Urgent,Barbara Dudley,2025-04-16
+ORD-1179,2025-04-08,Lake Debra,Arnold Ltd,Food,499,1929.5,962819.13,Routine,Christopher Pierce,2025-05-08
+ORD-1180,2025-04-04,East Jessetown,"Mcclure, Ward and Lee",Ammunition,394,271.58,107000.73,Urgent,Willie Durham,2025-05-03
+ORD-1181,2025-03-27,Lake Debra,Galloway-Wyatt,Food,485,800.31,388151.68,Emergency,Ronnie Jimenez,2025-04-01
+ORD-1182,2025-04-17,Lake Debra,James Group,Vehicles,862,1313.24,1132015.99,Urgent,Denise Davenport,2025-05-13
+ORD-1183,2025-05-08,East Jessetown,Williams and Sons,Food,654,1780.05,1164150.22,Emergency,Juan Reyes,2025-05-16
+ORD-1184,2025-05-03,East Jessetown,Garcia-James,Communication Equipment,863,982.11,847559.48,Emergency,Sherry Shields,2025-05-18
+ORD-1185,2025-03-13,Lisatown,Garcia-James,Medical Supplies,66,1897.9,125261.2,Urgent,Jennifer Villa,2025-03-27
+ORD-1186,2025-03-31,East Jill,Garcia-James,Medical Supplies,928,1121.34,1040602.18,Urgent,Diane Evans,2025-04-20
+ORD-1187,2025-04-06,Robinsonshire,Galloway-Wyatt,Vehicles,621,1510.31,937903.21,Routine,Mrs. Brittany Ryan MD,2025-04-25
+ORD-1188,2025-04-04,East Jill,Williams and Sons,Ammunition,437,1884.2,823395.76,Urgent,Jordan Morris,2025-04-22
+ORD-1189,2025-03-06,Robinsonshire,Blair PLC,Vehicles,475,1906.05,905376.04,Urgent,Laura Hall,2025-03-12
+ORD-1190,2025-04-22,Robinsonshire,Galloway-Wyatt,Communication Equipment,387,215.05,83222.48,Urgent,Patrick Thornton,2025-04-30
+ORD-1191,2025-04-24,East Jill,Williams and Sons,Food,698,503.0,351094.73,Emergency,Matthew Hoover,2025-05-05
+ORD-1192,2025-05-08,North Judithbury,Moore-Bernard,Fuel,269,1978.76,532286.36,Emergency,Andrew Shaw MD,2025-06-01
+ORD-1193,2025-04-29,East Jill,Galloway-Wyatt,Medical Supplies,620,510.31,316390.69,Routine,Jessica Fox,2025-05-10
+ORD-1194,2025-03-27,New Roberttown,James Group,Food,303,1730.97,524484.41,Routine,Jennifer Pena,2025-04-11
+ORD-1195,2025-03-03,Lake Debra,Abbott-Munoz,Food,696,1746.25,1215390.69,Routine,Wayne Morgan,2025-03-12
+ORD-1196,2025-04-15,Robinsonshire,Blair PLC,Ammunition,351,129.98,45624.4,Urgent,Sarah Phelps,2025-04-20
+ORD-1197,2025-04-28,New Roberttown,"Mcclure, Ward and Lee",Ammunition,136,1516.76,206279.91,Urgent,Eugene Higgins,2025-05-04
+ORD-1198,2025-04-20,Robinsonshire,Galloway-Wyatt,Ammunition,131,958.81,125604.15,Routine,Amanda Jones,2025-05-09
+ORD-1199,2025-04-10,North Judithbury,Galloway-Wyatt,Fuel,489,1322.35,646627.83,Routine,Yolanda Francis,2025-05-04
+ORD-1200,2025-03-25,Lake Roberto,"Mcclure, Ward and Lee",Vehicles,722,305.13,220302.04,Emergency,Mark Brennan,2025-03-31
+ORD-1201,2025-03-26,East Jill,Garcia-James,Fuel,642,381.83,245137.6,Routine,Stephanie Williams,2025-04-14
+ORD-1202,2025-04-23,Robinsonshire,"Mcclure, Ward and Lee",Ammunition,563,660.31,371752.12,Emergency,James Thomas,2025-05-06
+ORD-1203,2025-04-02,Lisatown,Garcia-James,Communication Equipment,137,1720.31,235681.95,Emergency,Rebecca Jackson,2025-04-26
+ORD-1204,2025-02-25,East Jessetown,"Mcclure, Ward and Lee",Vehicles,929,534.14,496214.01,Urgent,Lisa Allen,2025-03-26
+ORD-1205,2025-05-03,Lisatown,"Mcclure, Ward and Lee",Communication Equipment,117,693.84,81179.5,Urgent,Joel King,2025-05-22
+ORD-1206,2025-03-11,Lake Debra,Arnold Ltd,Medical Supplies,723,1853.67,1340204.54,Routine,Robert Santana,2025-04-06
+ORD-1207,2025-04-14,East Jill,Garcia-James,Vehicles,118,1514.72,178736.85,Urgent,Jeremy Reed,2025-04-21
+ORD-1208,2025-04-07,New Roberttown,Galloway-Wyatt,Food,620,1917.59,1188903.81,Emergency,Jessica Wright,2025-05-07
+ORD-1209,2025-04-27,East Jill,"Mcclure, Ward and Lee",Fuel,914,1364.15,1246830.35,Urgent,James Webb,2025-05-12
+ORD-1210,2025-03-09,North Judithbury,Dudley Group,Ammunition,339,768.13,260395.31,Emergency,Laura Haney,2025-04-06
+ORD-1211,2025-03-14,East Jessetown,Abbott-Munoz,Communication Equipment,513,526.07,269871.47,Routine,Mary Hill,2025-04-04
+ORD-1212,2025-04-05,Robinsonshire,Garcia-James,Fuel,607,529.7,321529.28,Urgent,Natasha Williams,2025-04-21
+ORD-1213,2025-04-08,North Judithbury,James Group,Communication Equipment,869,1417.6,1231890.28,Routine,Tanner Mitchell DDS,2025-04-30
+ORD-1214,2025-04-08,Lake Debra,Dudley Group,Fuel,379,111.6,42296.78,Routine,Mark Oliver,2025-04-18
+ORD-1215,2025-04-14,Lisatown,Garcia-James,Medical Supplies,778,1303.03,1013754.87,Routine,Mary Massey,2025-05-07
+ORD-1216,2025-04-10,East Jessetown,"Mcclure, Ward and Lee",Vehicles,484,747.7,361887.94,Urgent,Maria Parker,2025-04-17
+ORD-1217,2025-03-26,Robinsonshire,James Group,Ammunition,106,1778.35,188505.12,Routine,Morgan Davis,2025-04-09
+ORD-1218,2025-03-14,North Judithbury,Garcia-James,Fuel,473,1357.68,642184.3,Urgent,Casey Anderson,2025-03-24
+ORD-1219,2025-04-03,Lake Roberto,"Mcclure, Ward and Lee",Fuel,240,1534.39,368254.07,Routine,Kiara Mcintyre,2025-04-27
+ORD-1220,2025-04-26,Lisatown,Garcia-James,Fuel,714,1389.12,991834.45,Urgent,Roger Olson,2025-05-12
+ORD-1221,2025-04-24,Lake Debra,Moore-Bernard,Medical Supplies,424,1970.45,835469.42,Routine,Gina Wilson,2025-05-15
+ORD-1222,2025-05-07,East Jessetown,Dudley Group,Medical Supplies,805,360.75,290400.63,Urgent,Vincent Dalton,2025-05-12
+ORD-1223,2025-04-17,Robinsonshire,Garcia-James,Food,529,1519.33,803723.9,Routine,Tracy Ballard,2025-05-01
+ORD-1224,2025-03-20,Lisatown,Galloway-Wyatt,Communication Equipment,255,1050.5,267877.11,Emergency,Alexis Herrera,2025-03-29
+ORD-1225,2025-03-27,Robinsonshire,Garcia-James,Vehicles,902,1509.88,1361910.43,Urgent,Megan Richards,2025-04-26
+ORD-1226,2025-04-25,Lake Roberto,Garcia-James,Fuel,609,915.64,557624.85,Urgent,Ashley Hall,2025-04-30
+ORD-1227,2025-02-21,Lisatown,Dudley Group,Food,434,139.63,60598.32,Urgent,Kristina Herman,2025-03-20
+ORD-1228,2025-03-08,Lake Roberto,Arnold Ltd,Food,467,1704.52,796010.97,Routine,Rodney Blankenship,2025-03-18
+ORD-1229,2025-03-15,Lisatown,Galloway-Wyatt,Food,425,1754.0,745448.47,Emergency,Charles Shah,2025-04-02
+ORD-1230,2025-03-15,East Jessetown,Arnold Ltd,Medical Supplies,98,1069.92,104851.99,Routine,Brent Clay Jr.,2025-03-30
+ORD-1231,2025-03-27,East Jessetown,Arnold Ltd,Fuel,764,1920.62,1467357.01,Emergency,Natalie Bautista,2025-04-17
+ORD-1232,2025-03-24,East Jessetown,Garcia-James,Medical Supplies,282,474.82,133898.23,Emergency,Brittany Perry,2025-04-02
+ORD-1233,2025-02-26,East Jill,Abbott-Munoz,Communication Equipment,525,981.51,515293.19,Emergency,Jason Lynn Jr.,2025-03-07
+ORD-1234,2025-03-20,Lake Roberto,James Group,Communication Equipment,670,1974.41,1322855.17,Urgent,Trevor Foley,2025-04-18
+ORD-1235,2025-02-26,Robinsonshire,Abbott-Munoz,Vehicles,89,990.95,88194.56,Emergency,Kimberly Levine,2025-03-23
+ORD-1236,2025-03-19,Lake Debra,James Group,Food,380,1063.94,404297.23,Urgent,Colton Martinez,2025-04-02
+ORD-1237,2025-04-27,Lake Roberto,Moore-Bernard,Food,397,1680.22,667048.77,Routine,Matthew May,2025-05-16
+ORD-1238,2025-04-07,East Jill,James Group,Ammunition,539,830.52,447648.5,Emergency,Richard Sanchez,2025-05-02
+ORD-1239,2025-03-01,North Judithbury,Williams and Sons,Ammunition,687,457.65,314408.97,Emergency,Andrea Hubbard,2025-03-23
+ORD-1240,2025-03-07,New Roberttown,Moore-Bernard,Vehicles,125,1640.84,205104.62,Urgent,Sergio Murphy,2025-03-27
+ORD-1241,2025-03-02,East Jill,Galloway-Wyatt,Communication Equipment,196,174.37,34176.53,Emergency,April Garrison,2025-03-29
+ORD-1242,2025-03-02,Lake Roberto,Galloway-Wyatt,Ammunition,644,401.62,258641.86,Urgent,David Thompson,2025-03-21
+ORD-1243,2025-04-12,Lisatown,"Mcclure, Ward and Lee",Fuel,715,1235.98,883727.94,Emergency,Adrian Tyler,2025-04-26
+ORD-1244,2025-03-10,Robinsonshire,Garcia-James,Fuel,116,1160.13,134575.09,Urgent,Christopher Williams,2025-04-04
+ORD-1245,2025-04-19,Lake Debra,James Group,Medical Supplies,361,254.85,92002.21,Emergency,Nichole Alvarez,2025-05-03
+ORD-1246,2025-04-22,Robinsonshire,Dudley Group,Communication Equipment,735,1358.06,998171.75,Routine,Ashley Gordon,2025-05-01
+ORD-1247,2025-05-05,East Jill,Dudley Group,Ammunition,405,1322.64,535668.07,Urgent,Richard Camacho,2025-05-29
+ORD-1248,2025-04-01,East Jill,"Mcclure, Ward and Lee",Ammunition,390,134.64,52508.83,Urgent,Victor Brown,2025-04-10
+ORD-1249,2025-03-29,East Jessetown,Arnold Ltd,Vehicles,216,530.43,114573.27,Routine,Michael Henry,2025-04-08
+ORD-1250,2025-05-02,East Jill,Dudley Group,Food,539,1564.66,843352.8,Emergency,Bobby Franklin,2025-05-11
+ORD-1251,2025-02-24,North Judithbury,Arnold Ltd,Ammunition,154,1234.77,190154.31,Routine,Mark Kelley,2025-03-17
+ORD-1252,2025-03-17,New Roberttown,James Group,Medical Supplies,758,931.58,706137.24,Urgent,Kerry Chavez DDS,2025-03-27
+ORD-1253,2025-02-26,East Jessetown,Williams and Sons,Ammunition,311,1529.54,475687.94,Urgent,Sarah Curtis,2025-03-14
+ORD-1254,2025-04-21,East Jessetown,Dudley Group,Vehicles,945,1686.72,1593946.1,Urgent,Cindy Hayes,2025-05-03
+ORD-1255,2025-03-09,Lake Roberto,Williams and Sons,Fuel,816,825.56,673655.02,Emergency,Jesse Perry,2025-04-04
+ORD-1256,2025-02-26,New Roberttown,Blair PLC,Ammunition,161,1758.7,283151.29,Routine,Maurice Brooks,2025-03-16
+ORD-1257,2025-03-03,Lake Roberto,Arnold Ltd,Ammunition,976,294.92,287842.4,Emergency,Andrea Decker,2025-03-28
+ORD-1258,2025-02-26,Lake Debra,Garcia-James,Medical Supplies,299,953.71,285158.25,Emergency,Parker Cain,2025-03-06
+ORD-1259,2025-04-04,Lisatown,Garcia-James,Medical Supplies,856,957.14,819314.56,Urgent,Kristina Rivera,2025-04-13
+ORD-1260,2025-02-28,Lisatown,Moore-Bernard,Vehicles,534,810.53,432821.33,Urgent,Maurice Christensen,2025-03-05
+ORD-1261,2025-04-29,Robinsonshire,Blair PLC,Food,346,1868.57,646524.95,Emergency,Tracy Burke,2025-05-06
+ORD-1262,2025-03-19,Robinsonshire,Abbott-Munoz,Medical Supplies,59,645.07,38059.18,Urgent,Christy Douglas,2025-04-13
+ORD-1263,2025-03-08,New Roberttown,Williams and Sons,Vehicles,650,109.98,71485.23,Routine,Ryan Richardson,2025-04-04
+ORD-1264,2025-04-21,Lake Debra,Blair PLC,Medical Supplies,581,1886.43,1096015.43,Emergency,Renee Bruce,2025-04-26
+ORD-1265,2025-05-07,Lisatown,Garcia-James,Fuel,263,672.19,176785.25,Routine,Lisa Day,2025-05-28
+ORD-1266,2025-02-21,Lisatown,James Group,Vehicles,84,310.63,26092.92,Urgent,Sandra Adams,2025-03-05
+ORD-1267,2025-03-05,North Judithbury,Galloway-Wyatt,Ammunition,267,1465.23,391217.54,Urgent,Ellen Morgan,2025-03-29
+ORD-1268,2025-02-19,North Judithbury,James Group,Fuel,266,1184.26,315013.44,Routine,Kylie Morales,2025-03-09
+ORD-1269,2025-03-02,East Jill,Galloway-Wyatt,Fuel,89,1911.47,170120.56,Emergency,Amanda Reese,2025-03-28
+ORD-1270,2025-03-08,North Judithbury,"Mcclure, Ward and Lee",Vehicles,64,1307.77,83697.57,Urgent,Glen Wood,2025-03-29
+ORD-1271,2025-04-17,North Judithbury,Arnold Ltd,Food,373,558.14,208185.94,Emergency,Latoya Miller,2025-04-30
+ORD-1272,2025-02-23,East Jill,James Group,Communication Equipment,794,731.79,581037.57,Routine,Luke Craig,2025-03-20
+ORD-1273,2025-03-12,Robinsonshire,Abbott-Munoz,Communication Equipment,495,1963.56,971960.44,Urgent,Karla Ramos,2025-03-28
+ORD-1274,2025-03-12,New Roberttown,Abbott-Munoz,Food,753,1574.76,1185795.6,Urgent,Ashley Jordan,2025-04-06
+ORD-1275,2025-03-13,Lake Debra,Blair PLC,Food,830,478.99,397563.93,Routine,Katelyn Estrada,2025-03-19
+ORD-1276,2025-02-22,Lake Debra,Galloway-Wyatt,Vehicles,854,1131.76,966521.61,Urgent,Kyle Smith,2025-03-09
+ORD-1277,2025-03-15,East Jessetown,Dudley Group,Fuel,902,1583.6,1428406.28,Emergency,Chad Scott,2025-03-21
+ORD-1278,2025-03-17,Lake Debra,Garcia-James,Fuel,467,1790.02,835941.39,Emergency,Paul Thompson,2025-04-01
+ORD-1279,2025-03-21,Lisatown,Arnold Ltd,Medical Supplies,528,1414.93,747083.11,Urgent,Kathryn Whitaker,2025-04-09
+ORD-1280,2025-04-24,Lake Debra,Garcia-James,Communication Equipment,454,249.96,113482.44,Emergency,Scott Williams,2025-05-24
+ORD-1281,2025-02-20,Lake Debra,Arnold Ltd,Food,101,723.05,73027.83,Urgent,Shannon Johnston,2025-03-02
+ORD-1282,2025-04-05,Lake Roberto,James Group,Communication Equipment,456,416.63,189981.03,Urgent,Jennifer Wilson,2025-04-19
+ORD-1283,2025-02-20,Lake Roberto,Moore-Bernard,Communication Equipment,910,1832.05,1667168.9,Emergency,Robert Montgomery,2025-03-08
+ORD-1284,2025-04-26,Lake Debra,Moore-Bernard,Food,707,1311.27,927070.59,Urgent,Anita Richard,2025-05-14
+ORD-1285,2025-03-10,New Roberttown,Moore-Bernard,Medical Supplies,889,1254.39,1115151.39,Urgent,Kelly Foster,2025-03-31
+ORD-1286,2025-03-15,New Roberttown,Garcia-James,Medical Supplies,817,1325.81,1083186.33,Urgent,Gary Jackson,2025-03-21
+ORD-1287,2025-03-31,North Judithbury,James Group,Medical Supplies,715,954.85,682719.81,Urgent,Jordan Bullock,2025-04-17
+ORD-1288,2025-03-18,Lake Roberto,Garcia-James,Ammunition,160,1105.97,176955.8,Urgent,Sabrina Briggs,2025-04-03
+ORD-1289,2025-03-09,Lake Debra,Blair PLC,Food,46,1497.78,68897.98,Urgent,Craig Morrison,2025-03-24
+ORD-1290,2025-04-20,Lisatown,Galloway-Wyatt,Food,288,1572.43,452860.57,Emergency,Cassandra Mejia,2025-05-11
+ORD-1291,2025-03-30,East Jessetown,James Group,Fuel,730,1841.31,1344156.25,Urgent,Olivia Cole,2025-04-18
+ORD-1292,2025-05-03,East Jill,Abbott-Munoz,Food,482,428.05,206318.7,Emergency,Madison Weber,2025-05-14
+ORD-1293,2025-04-29,East Jill,Arnold Ltd,Communication Equipment,375,1448.13,543047.6,Emergency,Brittany Jones,2025-05-18
+ORD-1294,2025-03-26,Lake Debra,Dudley Group,Medical Supplies,748,1448.17,1083232.06,Emergency,Donald Brown,2025-04-17
+ORD-1295,2025-03-31,New Roberttown,Arnold Ltd,Ammunition,249,330.59,82316.58,Routine,Jesse Brown,2025-04-25
+ORD-1296,2025-04-26,New Roberttown,Blair PLC,Vehicles,46,785.7,36142.36,Emergency,Sean Wyatt,2025-05-26
+ORD-1297,2025-04-09,Lake Roberto,Galloway-Wyatt,Medical Supplies,646,1780.07,1149924.09,Routine,Julie Spencer,2025-04-25
+ORD-1298,2025-04-23,Lisatown,Williams and Sons,Ammunition,440,1561.41,687021.56,Emergency,Joanna Pacheco,2025-05-07
+ORD-1299,2025-04-12,New Roberttown,Arnold Ltd,Communication Equipment,95,954.95,90720.4,Emergency,John Hernandez,2025-04-19
