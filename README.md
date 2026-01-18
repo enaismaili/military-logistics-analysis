@@ -1,6 +1,6 @@
 # Military Supply Logistics Analysis
 
-This project simulates a comprehensive performance and risk analysis of a multinational military logistics system, with a focus on Military Supplies . It demonstrates end-to-end business analysis capabilities from requirements gathering through implementation, testing, and operational deployment. The simulation captures delivery delays, vendor reliability, inventory sufficiency, and financial performance across key categories like food, fuel, and equipment mimicking complex real-world operations where military bases rely on coordinated, multi-vendor procurement and long-lead replenishment to sustain mission readiness.
+This project simulates a comprehensive performance and risk analysis of a multinational military logistics system, with a focus on Military Supplies. It demonstrates end-to-end business analysis capabilities from requirements gathering through implementation, testing, and operational deployment. The simulation captures delivery delays, vendor reliability, inventory sufficiency, and financial performance across key categories like food, fuel, and equipment mimicking complex real-world operations where military bases rely on coordinated, multi-vendor procurement and long-lead replenishment to sustain mission readiness.
 
 ---
 
